@@ -1,7 +1,5 @@
 # Operating System Interaction Repository
 
-## Repository Name Suggestion: `SysCommand`
-
 ## 🛠️ Welcome to SysCommand! 🛠️
 
 Delve into a repository dedicated to showcasing how to interact with the underlying operating system using Python's `os` and `subprocess` modules. `SysCommand` serves as a rich resource for developers, system administrators, and anyone interested in extending their Python programming skills to interact with the system environment, execute commands, and manage processes.
